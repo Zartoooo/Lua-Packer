@@ -1,3 +1,5 @@
+i did this before i realized that darklua existed
+
 # Lua-Packer
 a simple python script to pack your lua project into a single file
 
